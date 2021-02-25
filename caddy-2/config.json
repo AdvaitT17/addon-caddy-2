@@ -23,7 +23,7 @@
       "email": "your@email.com",
       "domain": "mydomain.com",
       "destination": "localhost",
-      "port": 8123
+      "port": 1702
     },
     "args": [],
     "env_vars": [],
